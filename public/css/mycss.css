@@ -1,0 +1,54 @@
+.login-border{
+    border: 3px solid #f8f8f8 !important;
+}
+
+
+.profile-badge{
+    border-radius: 100%;
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    height: 100%;
+    font-size: 100%;
+    line-height: 100%;
+}
+
+.cursor-pointer{
+    cursor:pointer;
+}
+
+
+.task-table{
+    width: 100%;
+}
+.task-row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 3rem;
+    border-bottom: 1px solid lightgray;
+}
+.task-row td{
+    height: 100% !important;
+}
+.task-delete{
+    width: 10% !important;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+.task-title{
+    width: 20% !important;
+
+}
+.task-description{
+    width: 40% !important;
+
+}
+.task-doer{
+    height: fit-content;
+    width: 10% !important;
+}
+.task-expiry{
+    width: 20% !important;
+}
